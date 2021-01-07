@@ -1,1 +1,2 @@
-# Influential-var
+# Influential-variable in a model
+# How to find out which variables influence a model with Partial dependence plots
